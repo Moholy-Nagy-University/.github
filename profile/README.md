@@ -4,8 +4,8 @@
 
 ## Hogy miken is dolgozunk?
 
-* Riporting 
-* Business_Logic 
+* [Riporting](https://github.com/orgs/Moholy-Nagy-University/projects/3) 
+* [Business_Logic](https://github.com/orgs/Moholy-Nagy-University/projects/4) 
 * Web 
 * Tevékenységek 
 * Database 
