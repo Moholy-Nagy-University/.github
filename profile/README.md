@@ -4,7 +4,7 @@
 
 * [Riporting](https://github.com/search?q=topic%3Ariporting+org%3AMoholy-Nagy-University&type=Repositories) #ripoting
 * [Business_Logic](https://github.com/search?q=topic%3Abusinesslogic+org%3AMoholy-Nagy-University&type=Repositories) #businesslogic
-* Web 
+* [Web](https://github.com/search?q=topic%3Aweb+org%3AMoholy-Nagy-University&type=Repositories) #web 
 * Tevékenységek 
 * Database 
 * ETL 
