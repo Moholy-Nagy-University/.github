@@ -6,7 +6,7 @@
 
 * Riporting 
 * Business_Logic 
-* *Web 
+* Web 
 * Tevékenységek 
 * Database 
 * ETL 
