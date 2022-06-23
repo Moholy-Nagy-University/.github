@@ -22,4 +22,13 @@
 * [InDev](https://github.com/search?q=topic%3Aindev+org%3AMoholy-Nagy-University&type=Repositories) #indev
 * [Test](https://github.com/search?q=topic%3Atest+org%3AMoholy-Nagy-University&type=Repositories) #test
 
-###Hogyan is használjuk ezen topic-okat?
+### Hogyan is használjuk ezen topic-okat?
+
+1. Repositories
+2. Adott repositorie
+3. About settings
+4. Topic
+
+#### További kérdések esetén:
+
+Barbul Gergő - digitaltransformation@mome.hu
