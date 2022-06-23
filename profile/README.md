@@ -1,11 +1,9 @@
 # Szia 👋
 
-[MOME kód projekt tár](https://github.com/orgs/Moholy-Nagy-University/projects?type=classic)
-
 ## Hogy miken is dolgozunk?
 
-* [Riporting](https://github.com/orgs/Moholy-Nagy-University/projects/3) 
-* [Business_Logic](https://github.com/orgs/Moholy-Nagy-University/projects/4) 
+* [Riporting](https://github.com/search?q=topic%3Ariporting+org%3AMoholy-Nagy-University&type=Repositories) #ripoting
+* [Business_Logic](https://github.com/search?q=topic%3Abusinesslogic+org%3AMoholy-Nagy-University&type=Repositories) #businesslogic
 * Web 
 * Tevékenységek 
 * Database 
