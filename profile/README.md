@@ -31,4 +31,5 @@
 
 #### További kérdések esetén:
 
-Barbul Gergő - digitaltransformation@mome.hu
+Farkas Dávid - Adattudományi és digitális központvezető - dfarkas@mome.hu
+Barbul Gergő - digitális transzformációs munkatárs - digitaltransformation@mome.hu
