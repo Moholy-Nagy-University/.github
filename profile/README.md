@@ -6,8 +6,7 @@
 * [Business_Logic](https://github.com/search?q=topic%3Abusinesslogic+org%3AMoholy-Nagy-University&type=Repositories) #businesslogic
 * [Web](https://github.com/search?q=topic%3Aweb+org%3AMoholy-Nagy-University&type=Repositories) #web 
 * [Tevékenységek](https://github.com/search?q=topic%3Atevekenysegek+org%3AMoholy-Nagy-University&type=Repositories) #tevekenysegek
-* [Database](https://github.com/search?q=topic%3Adatabase+org%3AMoholy-Nagy-University&ty*
-*pe=Repositori*es) #database
+* [Database](https://github.com/search?q=topic%3Adatabase+org%3AMoholy-Nagy-University&type=Repositories) #database
 * [ETL](https://github.com/search?q=topic%3Aetl+org%3AMoholy-Nagy-University&type=Repositories) #etl
 * [NLP](https://github.com/search?q=topic%3Anlp+org%3AMoholy-Nagy-University&type=Repositories) #nlp
 * [Analytics](https://github.com/search?q=topic%3Aanalytics+org%3AMoholy-Nagy-University&type=Repositories) #analytics
