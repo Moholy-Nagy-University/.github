@@ -16,10 +16,11 @@
 * [SharePoint](https://github.com/search?q=topic%3Asharepoint+org%3AMoholy-Nagy-University&type=Repositories) #sharepoint
 * [GraphAPI](https://github.com/search?q=topic%3Agrphapi+org%3AMoholy-Nagy-University&type=Repositories) #graphapi
 * [mindTech](https://github.com/search?q=topic%3Amindtech+org%3AMoholy-Nagy-University&type=Repositories) #mindtech
+* [nextjs](https://github.com/search?q=topic%3Anextjs+org%3AMoholy-Nagy-University&type=Repositories) #nextjs
 
 ## Projket státuszaink
 
-* [Porduction](https://github.com/search?q=topic%3Aproduction+org%3AMoholy-Nagy-University&type=Repositories) #production
+* [Production](https://github.com/search?q=topic%3Aproduction+org%3AMoholy-Nagy-University&type=Repositories) #production
 * [InDev](https://github.com/search?q=topic%3Aindev+org%3AMoholy-Nagy-University&type=Repositories) #indev
 * [Test](https://github.com/search?q=topic%3Atest+org%3AMoholy-Nagy-University&type=Repositories) #test
 
