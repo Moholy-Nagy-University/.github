@@ -15,6 +15,7 @@
 * [Neptun](https://github.com/search?q=topic%3Aneptun+org%3AMoholy-Nagy-University&type=Repositories) #neptun
 * [SharePoint](https://github.com/search?q=topic%3Asharepoint+org%3AMoholy-Nagy-University&type=Repositories) #sharepoint
 * [GraphAPI](https://github.com/search?q=topic%3Agrphapi+org%3AMoholy-Nagy-University&type=Repositories) #graphapi
+* [mindTech](https://github.com/search?q=topic%3Amindtech+org%3AMoholy-Nagy-University&type=Repositories) #mindtech
 
 ## Projket státuszaink
 
